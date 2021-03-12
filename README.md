@@ -6,4 +6,4 @@ The approach we will take for this project is : each member will work on the pro
 
 
 Link to the Wordpress Website where I share everything what I have done.
-https://imageprocessingd17125070.wordpress.com/blog/
+https://imageprocessing607063204.wordpress.com/blog/
